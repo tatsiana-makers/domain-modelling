@@ -20,16 +20,14 @@ class Student
 end
 
 class Cohort
+  attr_reader :students
+  
   def initialize
      @students = []
   end
 
   def add(student)
       @students.push(student)
-  end
-
-  def students
-     @students
   end
 
   def count_of_signed_in_students
