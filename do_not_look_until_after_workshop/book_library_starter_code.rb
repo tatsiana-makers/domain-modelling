@@ -2,7 +2,7 @@ class Book
   def initialize(name, author)
     @name = name
     @author = author
-    @on_loan = false
+    @damaged = false
   end
 end
 
@@ -11,12 +11,12 @@ class Library
       @books = []
    end
 
-   def available
+   def add(book)
+   end
+
+   def count_damaged_books
    end
 
    def books_by(author)
-   end
-
-   def list_books
    end
 end
