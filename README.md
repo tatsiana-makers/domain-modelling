@@ -49,7 +49,7 @@ Spend another 25 minutes implementing the library user stories using the same do
 ```
 As a librarian
 So that the public can read my books
-I would like a book to have a name and an author
+I would like a book to have a title and an author
 ```
 
 ```
@@ -79,7 +79,7 @@ I would like to count how many books are damaged in the library
 ```
 As a librarian
 So that the public know what books are written by their favourite author
-I would like the library to list all books by specific author
+I would like the library to list all book titles by specific author
 ```
 
 ### Follow on
