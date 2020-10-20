@@ -54,31 +54,31 @@ I would like a book to have a name and an author
 
 ```
 As a librarian
-So that the public can read my books
-I would like be able to loan and return a book (making it unavailable/available for others to borrow)
-```
-
-```
-As a librarian
-So that the public know what books are in the library
+So that the public has more variety
 I would like to add a book to the library
 ```
 
 ```
 As a librarian
-So that the public know what books are in the library
-I would like the library to list all books it has
+So that the public knows all the books in the library
+I would like to list all books in the library
 ```
 
 ```
 As a librarian
-So that the public know what books are in the library
-I would like the library to list all available books
+So that I can know if a book needs to be replaced
+I would like to be able to mark a book as damaged
 ```
 
 ```
 As a librarian
-So that the public know what books are in the library
+So that I know how many books need to be replaces
+I would like to count how many books are damaged in the library
+```
+
+```
+As a librarian
+So that the public know what books are written by their favourite author
 I would like the library to list all books by specific author
 ```
 
